@@ -1,0 +1,4 @@
+C:\Users\anile\source\repos\MaskeTakip\MaskeTakip\obj\Debug\net5.0\MaskeTakip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anile\source\repos\MaskeTakip\MaskeTakip\obj\Debug\net5.0\MaskeTakip.AssemblyInfoInputs.cache
+C:\Users\anile\source\repos\MaskeTakip\MaskeTakip\obj\Debug\net5.0\MaskeTakip.AssemblyInfo.cs
+C:\Users\anile\source\repos\MaskeTakip\MaskeTakip\obj\Debug\net5.0\MaskeTakip.csproj.CoreCompileInputs.cache
